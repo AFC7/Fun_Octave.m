@@ -1,8 +1,8 @@
-% ab.m - Angulo de Brewster para polarización vertical de una onda que incide en el suelo, para una permitividad dada (Er)
+% Angulo_Brewster.m - Angulo de Brewster para polarizaciÃ³n vertical de una onda que incide en el suelo, para una permitividad dada (Er)
 %
 % uso: angulodeg = ab(Er)
 %
-% ab =  Angulo de Brewster para polarización vertical de una onda que incide en el suelo, para una permitividad dada (Er)
+% ab =  Angulo de Brewster para polarizaciÃ³n vertical de una onda que incide en el suelo, para una permitividad dada (Er)
 % Er = permitividad relativa 
 %
 % fuente : 3.5.2 Brewster Angle, captulo 3 Rappaport - Wireless Communications
