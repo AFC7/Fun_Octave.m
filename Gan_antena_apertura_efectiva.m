@@ -1,0 +1,19 @@
+% Calculo de la Ganancia de una antena relacionada con su apertura efectiva.
+%
+% Uso: Ganancia(Ae,Lambda)
+% 
+%   Ae   = Apertura Efectiva en metros (m)
+% Lambda = Longitud de onda en metros (m)
+
+% fuente : ecuacion 3.2 captulo 3 Rappaport - Wireless Communications
+
+% Wilin Rodriguez 2021.
+
+function Gain = Ganancia(Ae, Lambda)
+
+if nargin !=2, 
+  help Ganancia; 
+  return; 
+end
+
+Gain=(4*pi)*Ae/Lambda^2;
