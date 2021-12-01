@@ -17,7 +17,7 @@
 
 function Re=C_R_PA(n1,n2,Tet,Tei)
       if nargin ~= 4,
-      help ReflexPa;
+      help C_R_PA;
       return;
     end
     Re=((n2*sind(Tet))-(n1*sind(Tei)))/((n2*sind(Tet))+(n1*sind(Tei)));
