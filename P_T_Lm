@@ -19,4 +19,4 @@ function PLdB=P_T_L(PLd0,d0,n,d)
   if nargin ~= 4,
      return
   end
-PLdB=(PLd0+(10*n*log10(d/d0)));
+ PLdB=(PLd0+(10*n*log10(d/d0)));
