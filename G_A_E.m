@@ -1,4 +1,4 @@
-% Calculo de la Ganancia de una antena relacionada con su apertura efectiva.
+%  G_A_E.m  Calculo de la Ganancia de una antena relacionada con su apertura efectiva.
 %
 % Uso: Ganancia(Ae,Lambda)
 % 
