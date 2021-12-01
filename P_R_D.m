@@ -1,4 +1,4 @@
-% P_R(d) Potencia recibida en funcion de la distancia en el espacio libre
+% P_R_D(d) Potencia recibida en funcion de la distancia en el espacio libre
 %
 %usage: Pr = (d,Pt,Gt,Gr,L,lambda)
 %
@@ -16,7 +16,7 @@
 
 function [Pr]=P_R(d,Pt,Gt,Gr,L,lambda)
     if nargin ~= 6
-      help P_R;
+      help P_R_D;
       return;
     end
     Pr=(Pt*Gt*Gr*(lambda.^2))./ (((4*pi).^2)*(d.^2)*L);
