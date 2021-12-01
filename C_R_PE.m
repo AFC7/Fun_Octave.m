@@ -19,4 +19,4 @@ function Rp=C_R_PE(n1,n2,Tht,Thi)
       if nargin ~= 4,
       return;
     end
-    Rp=((n2*sind(Thi))-(n1*sind(Tht)))/((n2*sind(Thi))+(n1*sind(Tht)));
+     Rp=((n2*sind(Thi))-(n1*sind(Tht)))/((n2*sind(Thi))+(n1*sind(Tht)));
