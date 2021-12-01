@@ -1,4 +1,4 @@
-%ReflexPa.m- coeficiente de reflexion en paralelo 
+% C_R_PA.m coeficiente de reflexion en paralelo 
 %
 % uso: function Re=ReflexPa(n1,n2,Tet,Tei)
 %      
@@ -11,11 +11,11 @@
 %  
 %Re=(n2*sind(Tet)-n1*sind(Tei))/(n2*sind(Tet)+n1*sind(Tei)) entrega un valor en grados
 % 
-%fuente: EcuaciÛn 3.19 Rappaport- Wireless Communications
+%fuente: Ecuaci√≥n 3.19 Rappaport- Wireless Communications
 
-% Sebasti·n Barrera Triana 2021- Radio enlaces 
+% Sebasti√°n Barrera Triana 2021- Radio enlaces 
 
-function Re=ReflexPa(n1,n2,Tet,Tei)
+function Re=C_R_PA(n1,n2,Tet,Tei)
       if nargin ~= 4,
       help ReflexPa;
       return;
