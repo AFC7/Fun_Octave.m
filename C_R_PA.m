@@ -1,4 +1,4 @@
-% C_R_PA.m coeficiente de reflexion en paralelo 
+% C_R_PA.m Coeficiente de reflexion en paralelo 
 %
 % uso: function Re=ReflexPa(n1,n2,Tet,Tei)
 %      
