@@ -1,4 +1,4 @@
-%p.m - Potencia transmitida en Watts convertida a dBW 
+%dBW.m - Potencia transmitida en Watts convertida a dBW 
 %Uso: dBW = pt(w)
 %w= La potencia transmitida en Watts
 %dBW= Potencia transmitida convertida a dBW
@@ -10,9 +10,9 @@ function dBW=p(w)
    
   if nargin != 1 
    
-     help pt;
+     help dBW;
      return;
   end
 
   
-  dBW=10*log10(w)
+  dBW=10*log10(w);
