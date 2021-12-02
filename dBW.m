@@ -4,7 +4,7 @@
 %p= Potencia transmitida convertida a dBW
 %Fuente : ejemplo 3.2 captulo 3 Rappaport - Wireless Communications
 
-%Lizeth Zamara Huertas Fajarado Radioenlaces 2021-II
+%Lizeth Zamara Huertas Fajardo Radioenlaces 2021-II
 
 function p=dBW(w)
    
