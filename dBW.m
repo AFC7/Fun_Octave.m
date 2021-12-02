@@ -16,3 +16,4 @@ function p=dBW(w)
 
   
   dBW=10*log10(w)
+  
