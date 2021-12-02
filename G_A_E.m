@@ -12,7 +12,7 @@
 function Gain = G_A_E(Ae, Lambda)
 
 if nargin !=2, 
-  help Ganancia; 
+  help G_A_E; 
   return; 
 end
 
