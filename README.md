@@ -3,7 +3,7 @@
 
 _Un proyecto realizado por universitarios de la UDEC con el desarrollo de funciones para Octave y con ello desarrollar de ejercicios con mayor facilidad_
 
-## Comencemos🚀
+## Iniciemos🚀
 
 _Para poder acceder a estas funciones, se recomienda tener instalado Octave (GUI), ya sea en Windows, macOS o Linux_
 
@@ -19,31 +19,27 @@ _Puede clonar este repositorio en:_
 #### HTTPS:
 ```
 https://github.com/AFC7/Fun_Octave.m.git
-
 ```
 ### SSH:
 ```
 git@github.com:AFC7/Fun_Octave.m.git
-
 ```
 ### GitHub CLI:
 ```
 gh repo clone AFC7/Fun_Octave.m
-
 ```
 
 ## Prueba 🔧
 
-_Para ejecutar las funciones se debe llamar el nombre de la cunvion y agregar los valores solicitados_
+_Para ejecutar las funciones se debe llamar y agregar los valores solicitados_
 
 _Si tenemos la función dBW.m, en ventana de comandos escribimos: _
 
 ```
 >>help dBW
-
 ```
 
-_Con la información principal de la función, en este caso:_
+_Se mostrará la información principal de la función, en este caso:_
 
 ```
 >> help dBW
@@ -52,15 +48,12 @@ Uso: p = dBW(w)
 w= La potencia transmitida en Watts
 p= Potencia transmitida convertida a dBW
 Fuente: ejemplo 3.2 capitulo 3 Rappaport - Wireless Communications
-
 ```
 
-_Ya con la información de la función, necesitamos solo una variable, en este caso sería w con un valor de 100KW para el ejemplo y para convertirla a dBW escribimos:_
-
+_Ya con la información , necesitamos solo una variable, en este caso sería w (La potencia transmitida en Watts) con un valor de 100KW para el ejemplo y para convertirla a dBW escribimos:_
 ```
 >> dBW(100000)
 dBW = 50
-
 ```
 **Podemos corroborar la función en una calculadora web**
 
@@ -80,7 +73,6 @@ _Por ejemplo tenemos la función P_R_D.m la cual se usa para encontrar la potenc
 %Gr= ganancia del receptor
 %L= factor de perdida 
 %lambda= longitud de onda en metros
-
 ```
 
 # Autores ✒️
