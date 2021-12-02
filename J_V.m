@@ -2,9 +2,9 @@
 %Uso: EC = J_v(x)
 %x = Parametro v
 %J_v = Perdida de difraccion en funcion de v
-%Fuente : ecuación 3.17 captulo 4 Recomendación UIT-R P.526-6
+%Fuente : ecuaciÃ³n 3.17 captulo 4 RecomendaciÃ³n UIT-R P.526-6
 
-%Lizeth Zamara Huertas Fajarado Radioenlaces 2021-II
+%Lizeth Zamara Huertas Fajardo Radioenlaces 2021-II
 
 
 function EC=J_V(x)
