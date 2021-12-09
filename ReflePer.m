@@ -1,13 +1,13 @@
-%ReflePer.m - Coeficiente de Reflexi髇 en Perpendicular
+%R_P.m - Coeficiente de Reflexi贸n en Perpendicular
 %Uso: function Rp=ReflePer(Er,Thi)
-%Rp = Coeficiente de reflexi髇 perpendicular
+%Rp = Coeficiente de reflexi贸n perpendicular
 %Er = Permitividad Relativa
 %Thi = Angulo de Thetai
-%Fuente: Ecuaci髇 3.24 Rappaport - Wireless Communications
-%Realizado por: David Ricardo Ramos Var髇 - Radioenlaces - 2021
+%Fuente: Ecuaci贸n 3.24 Rappaport - Wireless Communications
+%Realizado por: David Ricardo Ramos Var贸n - Radioenlaces - 2021
 
-function Rp=ReflePer(Er,Thi)
-  help ReflePer;
+function Rp=R_P(Er,Thi);
+  help R_P;
   if nargin ~=2,
     return;
   end
