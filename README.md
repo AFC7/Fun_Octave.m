@@ -1,7 +1,9 @@
+<p align="center">
+
 # Funciones, ejemplos y graficas de Comunicaciones inalámbricas →Theodore S. Rappaport en Octave 
 
 
-_Un proyecto realizado por universitarios de la UDEC con el desarrollo de funciones para Octave y con ello desarrollar de ejercicios con mayor facilidad_
+##_Un proyecto realizado por universitarios de la UDEC con el desarrollo de funciones del libro de comunicaciones inalambricas, Rappaport,  en Octave obteniendo una herramienta capaz de desarrollar ejercicios con mayor facilidad._
 
 ## Iniciemos🚀
 
@@ -56,8 +58,10 @@ _Ya con la información , necesitamos solo una variable, en este caso sería w (
 dBW = 50
 ```
 **Podemos corroborar la función en una calculadora web**
-
+<br><br>
+   
 [![sss.png](https://i.postimg.cc/J0811hP6/sss.png)](https://postimg.cc/k6jrs7rK)
+  
 
 _Este procedimiento es similar con otras funciones, se debe ver la estructura y las variables necesarias_
 
@@ -78,8 +82,10 @@ _Por ejemplo tenemos la función P_R_D.m la cual se usa para encontrar la potenc
 # Autores ✒️
 * **Leonardo Rodríguez** - *Director de proyecto*
 * **Andres Felipe Caro** - *GitMaster*
+* **Andres Dario Martinez Gonzalez** - *Desarrollo de software*
 * **Angie Daza** - *Desarrollo de software*
 * **Camila Andrea Mancera González** - *Desarrollo de software*
+* **David Ricardo Ramos Varón** - *Desarrollo de software*
 * **Jonnathan Jair Moreno Simbaqueba** - *Desarrollo de software*
 * **Juan Felipe Rivera Álvarez** - *Desarrollo de software*
 * **Lizeth Zamara Huertas Fajardo** - *Desarrollo de software*
@@ -87,9 +93,12 @@ _Por ejemplo tenemos la función P_R_D.m la cual se usa para encontrar la potenc
 * **María Fernanda Peña** - *Desarrollo de software*
 * **Nicolai Gerald Sebastián Velandia Tinoco** - *Desarrollo de software*
 * **Sebastián Barrera Triana** - *Desarrollo de software*
+* **Sebastian Olaya Romero** - *Desarrollo de software*
 * **Sergio A. Castro** - *Desarrollo de software*
 * **Wilin Rodríguez** - *Desarrollo de software*
 
 ### Licencia 📄
 
 Este proyecto está bajo la Licencia de software libre
+  
+  </p>
